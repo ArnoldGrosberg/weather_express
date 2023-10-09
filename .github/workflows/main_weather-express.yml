@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'weather-express'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F48700838274A09A36595BC8869FDE6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D85754A4468F47AE9FEA244D2A780B4B }}
           package: .
